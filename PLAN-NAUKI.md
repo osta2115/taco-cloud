@@ -3,6 +3,11 @@
 Stan na 7.10.2026: rozdział 1.3, projekt `taco-cloud` (Spring Boot 3.5.16, Java 21, Maven).
 Numeracja rozdziałów jest z pamięci. Sprawdź ją ze spisem treści swojego wydania.
 
+## Konwencje
+
+- Opisy, notatki i plan pracy piszemy po polsku.
+- Nazwy techniczne (aliasy hostów, nazwy kluczy SSH, pliki, klasy, pakiety, komunikaty commitów, kod) piszemy po angielsku. Przykład: alias SSH `github_private`, a nie `github_prywatny`.
+
 ## Zasady pracy (powtarzalne dla każdego rozdziału)
 
 1. **Czytaj z kodem pod ręką.** Każdy przykład z książki wpisuj sam, nie kopiuj.
